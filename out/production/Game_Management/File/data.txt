@@ -1,0 +1,6 @@
+title='Aoe', id='204d93', genre='FPS', price=30000000, rating=6.5, releaseDate='2000-3-2', totalDownloads': '0'
+title='aoe1', id='a017683d', genre='ARPG', price=100000, rating=8, releaseDate='2008-07-02', totalDownloads': '800000'
+title='Trails in the Sky', id='f34936b6', genre='JRPG', price=120000, rating=8.5, releaseDate='2004-06-26', totalDownloads': '1000000'
+title='Halo', id='4256bae', genre='FPS', price=300000, rating=9.0, releaseDate='2000-10-15', totalDownloads': '4000000'
+title='Need for Speed', id='d872e0c9', genre='Racing', price=250000, rating=8.2, releaseDate='2012-05-30', totalDownloads': '5000000'
+title='Fifa 23', id='e8d5aaeb', genre='Football', price=800000, rating=7, releaseDate='2022-10-21', totalDownloads': '10000000'
